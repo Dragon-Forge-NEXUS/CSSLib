@@ -22,6 +22,6 @@ please click on, and look at the css to see what it holds
 # AGS CSSLib Usage
 
 you may use any of these for your website, although it would be nice if you credit us in your footer with this:
-<p>styling provided by <a href="https://www.altiesgamingstudios.com">Altie's Gaming Studios</a> with their <a href="https://github.com/Altie-s-Gaming-Studios/CSSLib">CSSLib</a> CSS Library</p>
+&lt;p&gt;styling provided by &lt;a href="https://www.altiesgamingstudios.com"&gt; Altie's Gaming Studios&lt;/a&gt; with their &lt;a href="https://github.com/Altie-s-Gaming-Studios/CSSLib"&gt;CSSLib&lt;/a&gt; CSS Library&lt;/p&gt;
 you dont even have to download them! just use this to import them!:
-<link rel="stylesheet" href="https://CSSLib.altiesgamingstudios.com/{filename}.css">
+&lt;link rel="stylesheet" href="https://CSSLib.altiesgamingstudios.com/{filename}.css"&gt;
