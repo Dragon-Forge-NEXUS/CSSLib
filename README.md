@@ -27,5 +27,5 @@ you may use any of these for your website, although it would be nice if you cred
 ```  
 you dont even have to download them! just use this to import them!:  
 ```html
-<link rel="stylesheet" href="https://CSSLib.altiesgamingstudios.com/{filename}.css">
+<link rel="stylesheet" href="https://csslib.altiesgamingstudios.com/{filename}.css">
 ```
