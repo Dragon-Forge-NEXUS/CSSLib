@@ -4,7 +4,7 @@ to use the dropdowns and nav bar, use this code:
 <html>
 <head>
     <title>DropDown Skeleton</title>
-    <link rel="stylesheet" href="https://CSSLib.altiesgamingstudios/Dropdown.css">
+    <link rel="stylesheet" href="https://csslib.altiesgamingstudios.com/Dropdown.css">
 </head>
 <body>
         <div class="navbar">
