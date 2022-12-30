@@ -1,5 +1,5 @@
 to use the dropdowns and nav bar, use this code:
-
+'''html
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,3 +37,4 @@ to use the dropdowns and nav bar, use this code:
     </script>
 </body>
 </html>
+'''
