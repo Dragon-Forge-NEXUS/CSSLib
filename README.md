@@ -19,6 +19,7 @@ check the text file "dropdown info" for information on how to use the dropdown f
   
 please click on, and look at the css to see what it holds  
   
+the "ADS_Styles.css" and "ADStudios.css" files are the same, however, the "ADS_Styles.css" file, errored on some adblockers so I recommend using the "ADStudios.css" file 
 # AGS CSSLib Usage  
   
 you may use any of these for your website, although it would be nice if you credit us in your footer with this:  
