@@ -19,7 +19,13 @@ body {
     width: 99.6%;
     border: 2px solid #333;
 }
-
+.important-header {
+    font-family: 'Orbitron',serif;
+    background-color: maroon;
+    text-align:center;
+    width: 99.6%;
+    border: 2px solid #333;
+}
 .important {
     border-radius: 25px;
     background: maroon;
