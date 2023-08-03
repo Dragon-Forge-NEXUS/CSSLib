@@ -1,6 +1,6 @@
 # AGS CSSLib
 
-## This has been Archived to be replaced by a (Bootstrap)[https://getbootstrap.com] varient
+## This has been Archived to be replaced by a https://getbootstrap.com variant
 this is the CSS Libary for Altie's Gaming Studios' website:  
 https://www.altiesgamingstudios.com  
 the results of these files can be seen in these sites:  
@@ -25,7 +25,7 @@ the "ADS_Styles.css" and "ADStudios.css" files are the same, however, the "ADS_S
   
 you may use any of these for your website, although it would be nice if you credit us, just put this in the footer of your page:  
 ```html
-<p>styling provided by <a href="https://www.altiesgamingstudios.com">Altie's Gaming Studios And Altie's Design Studios</a> with their <a href="https://github.com/Altie-s-Gaming-Studios/CSSLib">CSSLib</a> CSS Library</p>
+<p>styling provided by <a href="https://www.altiesgamingstudios.com">Altie's Gaming Studios</a> with their <a href="https://github.com/Altie-s-Gaming-Studios/CSSLib">CSSLib</a> CSS Library</p>
 ```  
 you dont even have to download them! just use this to import them!:  
 ```html
