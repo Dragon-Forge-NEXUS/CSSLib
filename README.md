@@ -1,5 +1,6 @@
 # AGS CSSLib
 
+## This has been Archived to be replaced by a (Bootstrap)[https://getbootstrap.com] varient
 this is the CSS Libary for Altie's Gaming Studios' website:  
 https://www.altiesgamingstudios.com  
 the results of these files can be seen in these sites:  
